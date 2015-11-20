@@ -5,3 +5,4 @@ Ruby
 * AngularJS
 * Interactions with Arduino
 * Teaching
+* Killing history using git rebase
